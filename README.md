@@ -1,5 +1,9 @@
 # Social Flow Chart.py
 
+## First Note:
+
+This project is still in development. I'll remove this note when it is completed
+
 ## What is it?
 
 The following is program that can be used to quickly generate
